@@ -7,8 +7,7 @@ profile:
 published: true
 ---
 
-[Gradfolio](https://github.com/jitinnair1/gradfolio){:target="_blank"} is a responsive, dark-mode ready Jekyll theme designed keeping academia in mind. The easiest way to install the theme is to fork it using GitHub. Check the README file for [instructions](https://github.com/jitinnair1/gradfolio#installation){:target="_blank"}.
+I am a theoretical neuroscientist and machine learning researcher interested in the interactions and comonalities of biologial and artificial neural computations. My research group works at the intersection of AI and Neuroscience, developing tools to better understand neural network as well as algorithms for brain-machine interfaces. My work is motivated by the remarkable ability of neural networks (biological and artificial) to learn and support complex, emergent computations. I use tools from dynamical systems, information theory, statistics and machine learning to adress a range of problems, in collaboration with experimental neuroscientists and machine intelligence researchers.
 
-If you want to use this space to write your biography here, edit the `index.md` file. You can put a picture in, too. Rename your picture to `profile.png` and put it in the `assets/images/` folder.
 
-The social-icons footer can be used to link profiles from GitHub, OrcID and ReasearchGate aprart form the usual Twitter, LinkedIn and Facebook. You can add your user ID in the `_config.yml` file to link your accounts.
+Currently I am a postdoctoral researcher at University of Washington working under the supervision of Eric Shea-Brown. I also work in the Mazzucato lab at University of Oregon. Together with the broader community we are fostering new methods and theoretical understanding of neural mechanisms involved in shaping neural representations across the brain -- vision to action.
