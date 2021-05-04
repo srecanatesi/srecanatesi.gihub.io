@@ -17,7 +17,7 @@ To give your project a background in the portfolio page, just add the img tag to
     layout: page
     title: project
     description: a project with a background image
-    img: /assets/img/12.jpg
+    img: /assets/prediction.png
     ---
 
 <div class="row">
@@ -50,10 +50,10 @@ You describe how you toiled, sweated, *bled* for your project, and then... you r
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/6.jpg' | relative_url }}" alt="" title="example image"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/prediction.png' | relative_url }}" alt="" title="example image"/>
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/11.jpg' | relative_url }}" alt="" title="example image"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/prediction.png' | relative_url }}" alt="" title="example image"/>
     </div>
 </div>
 <div class="caption">
