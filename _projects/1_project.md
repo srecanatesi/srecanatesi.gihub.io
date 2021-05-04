@@ -2,7 +2,7 @@
 layout: page
 title: project 1
 description: a project with a background image
-img: /assets/img/12.jpg
+img: /assets/prediction.png
 importance: 1
 category: work
 ---
@@ -22,13 +22,13 @@ To give your project a background in the portfolio page, just add the img tag to
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/1.jpg' | relative_url }}" alt="" title="example image"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/prediction.png' | relative_url }}" alt="" title="example image"/>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/3.jpg' | relative_url }}" alt="" title="example image"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/prediction.png' | relative_url }}" alt="" title="example image"/>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/5.jpg' | relative_url }}" alt="" title="example image"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/prediction.png' | relative_url }}" alt="" title="example image"/>
     </div>
 </div>
 <div class="caption">
