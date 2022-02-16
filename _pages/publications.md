@@ -8,25 +8,28 @@ nav: true
 
 Publications
 =========
+_Metastable attractors explain the variable timing of stable behavioral action sequences_  
+**S. Recanatesi**, U. Pereira*, M. Murakami, Z. Mainen, and L. Mazzucato  
+Neuron 2022.
+
+P. Rich and S. Recanatesi, “Path vectors: a neural code for sequential memory”, Under
+review in PNAS, 2022.
+
 _Strong coupling and local control of dimensionality across brain areas_  
 D. Dahmen*, **S. Recanatesi***, M. Helias, and E. Shea-Brown 
-BioRxiv 2021.
+Under review in Nature 2021.
 
 _Predictive learning as a network mechanism for extracting low-dimensional latent space representations_  
 **S. Recanatesi**, M.Farrell,G. Lajoie, S. Deneve, M. Rigotti, and E. Shea-Brown  
 Nature Communications, 2021.
 
+_A scale-dependent measure of system dimensionality_  
+**S. Recanatesi***, S. Bradde*, V. Balasubramanian, and E. Shea-Brown  
+Under review in Patterns, BioRxiv 2020.
+
 _Autoencoder networks extract latent variables and encode these variables in their connectomes_  
 M.Farrell, **S. Recanatesi**, C. Reid, S. Mihalas, and E. Shea-Brown  
 Accepted in Neural Networks 2021.
-
-_Metastable attractors explain the variable timing of stable behavioral action sequences_  
-**S. Recanatesi**, U. Pereira*, M. Murakami, Z. Mainen, and L. Mazzucato  
-Under review in Nature Neuroscience, BioRxiv 2020.
-
-_A scale-dependent measure of system dimensionality_  
-**S. Recanatesi***, S. Bradde*, V. Balasubramanian, and E. Shea-Brown  
-Under review in Physical Review Letters, BioRxiv 2020.
 
 _Recurrent neural networks learn robust representations by dynamically balancing compression and expansion_  
 M.Farrell, **S. Recanatesi**, G. Lajoie, and E. Shea-Brown  
