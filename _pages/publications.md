@@ -42,7 +42,7 @@ Accepted in Neural Networks 2021.
 
 _Single circuit in V1 capable of switching contexts during movement using VIP population as a switch_  
 D.Voina, **S. Recanatesi**, B. Hu, E. Shea-Brown, and S. Mihalas  
-Under review in Neural Computation, BioRxiv 2020
+Neural Computation, BioRxiv 2020
 
 _Dimensionality compression and expansion in deep neural networks_  
 **S. Recanatesi***, M. Farrell*, G. Lajoie, and E. Shea-Brown  
